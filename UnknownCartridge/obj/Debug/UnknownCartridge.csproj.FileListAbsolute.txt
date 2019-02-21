@@ -1,0 +1,6 @@
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\UnknownCartridge\bin\Debug\UnknownCartridge.exe.config
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\UnknownCartridge\bin\Debug\UnknownCartridge.exe
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\UnknownCartridge\bin\Debug\UnknownCartridge.pdb
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\UnknownCartridge\obj\Debug\UnknownCartridge.csproj.CoreCompileInputs.cache
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\UnknownCartridge\obj\Debug\UnknownCartridge.exe
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\UnknownCartridge\obj\Debug\UnknownCartridge.pdb

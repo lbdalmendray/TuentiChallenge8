@@ -1,0 +1,6 @@
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\ConsoleTest\bin\Debug\ConsoleTest.exe
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\ConsoleTest\bin\Debug\ConsoleTest.pdb
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\ConsoleTest\obj\Debug\ConsoleTest.csproj.CoreCompileInputs.cache
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\ConsoleTest\obj\Debug\ConsoleTest.exe
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\ConsoleTest\obj\Debug\ConsoleTest.pdb

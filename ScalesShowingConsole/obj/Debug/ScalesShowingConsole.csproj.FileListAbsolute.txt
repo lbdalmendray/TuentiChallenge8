@@ -1,0 +1,9 @@
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\ScalesShowingConsole\obj\Debug\ScalesShowingConsole.csproj.CoreCompileInputs.cache
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\ScalesShowingConsole\bin\Debug\ScalesShowingConsole.exe.config
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\ScalesShowingConsole\bin\Debug\ScalesShowingConsole.exe
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\ScalesShowingConsole\bin\Debug\ScalesShowingConsole.pdb
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\ScalesShowingConsole\bin\Debug\Scales.exe
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\ScalesShowingConsole\bin\Debug\Scales.pdb
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\ScalesShowingConsole\bin\Debug\Scales.exe.config
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\ScalesShowingConsole\obj\Debug\ScalesShowingConsole.exe
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\ScalesShowingConsole\obj\Debug\ScalesShowingConsole.pdb

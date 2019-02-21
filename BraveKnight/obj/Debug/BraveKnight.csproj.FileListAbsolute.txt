@@ -1,0 +1,7 @@
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\BraveKnight\bin\Debug\BraveKnight.exe.config
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\BraveKnight\bin\Debug\BraveKnight.exe
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\BraveKnight\bin\Debug\BraveKnight.pdb
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\BraveKnight\obj\Debug\BraveKnight.csproj.CoreCompileInputs.cache
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\BraveKnight\obj\Debug\BraveKnight.exe
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\BraveKnight\obj\Debug\BraveKnight.pdb
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\BraveKnight\obj\Debug\BraveKnight.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\Scales\bin\Debug\CopyFile.exe.config
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\Scales\bin\Debug\CopyFile.exe
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\Scales\bin\Debug\CopyFile.pdb
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\CopyFile\obj\Debug\CopyFile.csproj.CoreCompileInputs.cache
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\CopyFile\obj\Debug\CopyFile.exe
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\CopyFile\obj\Debug\CopyFile.pdb
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\UnknownCartridge\CopyFile.exe.config
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\UnknownCartridge\CopyFile.exe
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\UnknownCartridge\CopyFile.pdb

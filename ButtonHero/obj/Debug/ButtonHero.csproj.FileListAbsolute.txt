@@ -1,0 +1,7 @@
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\ButtonHero\bin\Debug\ButtonHero.exe.config
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\ButtonHero\bin\Debug\ButtonHero.exe
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\ButtonHero\bin\Debug\ButtonHero.pdb
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\ButtonHero\obj\Debug\ButtonHero.csproj.CoreCompileInputs.cache
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\ButtonHero\obj\Debug\ButtonHero.exe
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\ButtonHero\obj\Debug\ButtonHero.pdb
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\ButtonHero\obj\Debug\ButtonHero.csprojResolveAssemblyReference.cache
