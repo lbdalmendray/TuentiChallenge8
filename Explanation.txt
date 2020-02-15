@@ -5,6 +5,8 @@ These are my solutions to some Tuenti Challenge Problems . Maybe some of them ar
 Have fun ! 
 
 Tuenti Challenge participation
+
+Tuenti Challenge 8 (Tuenti Challenge 2018) : 99th position
 Apr 2018
 Full name : Luis Benavides Dalmendray
-https://contest.tuenti.net/Stats
+https://contest.tuenti.net/resources/2018/Question_1.html
