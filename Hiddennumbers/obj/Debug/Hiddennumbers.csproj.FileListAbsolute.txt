@@ -1,7 +1,0 @@
-E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\Hiddennumbers\bin\Debug\Hiddennumbers.exe.config
-E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\Hiddennumbers\bin\Debug\Hiddennumbers.exe
-E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\Hiddennumbers\bin\Debug\Hiddennumbers.pdb
-E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\Hiddennumbers\obj\Debug\Hiddennumbers.csproj.CoreCompileInputs.cache
-E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\Hiddennumbers\obj\Debug\Hiddennumbers.exe
-E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\Hiddennumbers\obj\Debug\Hiddennumbers.pdb
-E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\Hiddennumbers\obj\Debug\Hiddennumbers.csprojResolveAssemblyReference.cache
