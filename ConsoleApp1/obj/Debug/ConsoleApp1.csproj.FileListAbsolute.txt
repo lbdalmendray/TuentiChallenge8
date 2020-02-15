@@ -1,6 +1,0 @@
-E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
-E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
-E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\TuentiContest\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
